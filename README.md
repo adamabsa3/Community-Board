@@ -39,6 +39,8 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 
+One of the challenges I faced was integrating different react files together as I don't have previous experience with that.
+
 ## License
 
     Copyright [2025] [Adam Absa]
